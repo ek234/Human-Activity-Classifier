@@ -4,18 +4,16 @@
 #SBATCH --gres=gpu:1
 #SBATCH --mem-per-cpu=3G
 #SBATCH --time=4-00:00:00
-#SBATCH --output=op_file_lr.txt
+#SBATCH --output=op_file_svm_rbf.txt
 
-LOGFILE="./log_lr.txt"
-
-which python
+LOGFILE="./log_svm_rbf.txt"
 
 pids=()
-for c in 0.00001 0.0001 0.001 0.01 0.1 1 10; do
+for c in 0.1 1 10 100 1000; do
 	for redness in red big; do
-		python ../src/logistic_regression.py "$c" "$redness" &
+		python ../src/svm.py "$c" "$redness" "rbf" &
 		pid="$!"
-		echo "$pid: started lr at C=$c, size=$redness" >> "$LOGFILE"
+		echo "$pid: started svm at C=$c, size=$redness" >> "$LOGFILE"
 		pids+="$pid"
 	done
 done

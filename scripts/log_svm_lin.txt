@@ -1,0 +1,10 @@
+5736: started svm at C=0.1, size=red
+5738: started svm at C=0.1, size=big
+5739: started svm at C=1, size=red
+5741: started svm at C=1, size=big
+5742: started svm at C=10, size=red
+5743: started svm at C=10, size=big
+5744: started svm at C=100, size=red
+5745: started svm at C=100, size=big
+5746: started svm at C=1000, size=red
+5747: started svm at C=1000, size=big

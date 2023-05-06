@@ -1,13 +1,17 @@
 #!/bin/zsh
+#SBATCH -A research
+#SBATCH -n 10
+#SBATCH --gres=gpu:1
+#SBATCH --mem-per-cpu=3G
+#SBATCH --time=4-00:00:00
+#SBATCH --output=op_file_svm_lin.txt
 
-LOGFILE="./log.txt"
-
-which python
+LOGFILE="./log_svm_lin.txt"
 
 pids=()
 for c in 0.1 1 10 100 1000; do
 	for redness in red big; do
-		python ../src/svm.py "$c" "$redness" &
+		python ../src/svm.py "$c" "$redness" "linear" &
 		pid="$!"
 		echo "$pid: started svm at C=$c, size=$redness" >> "$LOGFILE"
 		pids+="$pid"
