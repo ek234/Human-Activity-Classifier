@@ -44,7 +44,7 @@ if __name__ == "__main__":
         exit(1)
     C = float(sys.argv[1])
     use_reduced = (sys.argv[2] == "red")
-    print(f"starting exec->  C: {C}, using reduced set: {use_reduced}")
+    print(f"starting svm exec->  C: {C}, using reduced set: {use_reduced}")
 
     train_time, acc_v, acc_t = create_model(C, use_reduced)
     with open(f"../models/svm_metrics_{sys.argv[2]}_{sys.argv[1]}.txt", 'w') as file:

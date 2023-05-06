@@ -1,0 +1,3 @@
+train time: 141.17158436775208
+accuracy v: 91.263%
+accuracy t: 91.273%
