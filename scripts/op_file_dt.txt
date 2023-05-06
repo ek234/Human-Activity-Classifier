@@ -1,19 +1,43 @@
 ==========================================
-SLURM_JOB_ID = 895865
-SLURM_NODELIST = gnode026
+SLURM_JOB_ID = 895905
+SLURM_NODELIST = gnode056
 SLURM_JOB_GPUS = 0
 ==========================================
 /home2/ek234/micromamba/envs/smaiP/bin/python
-procs: 40019 40021 40022 40023 40024 40025 40026 40027 40028 40030 40031 40032
+procs: 14942 14944 14945 14946 14947 14948 14949 14950 14951 14952 14953 14954
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
 starting dt exec->  depth: 2, using reduced set: True
-starting dt exec->  depth: 5, using reduced set: True
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
 starting dt exec->  depth: 2, using reduced set: False
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+starting dt exec->  depth: 5, using reduced set: True
 starting dt exec->  depth: 10, using reduced set: True
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
 starting dt exec->  depth: 5, using reduced set: False
 starting dt exec->  depth: 20, using reduced set: True
-starting dt exec->  depth: 50, using reduced set: True
 starting dt exec->  depth: 100, using reduced set: True
+starting dt exec->  depth: 50, using reduced set: True
 starting dt exec->  depth: 10, using reduced set: False
 starting dt exec->  depth: 20, using reduced set: False
-starting dt exec->  depth: 100, using reduced set: False
 starting dt exec->  depth: 50, using reduced set: False
+starting dt exec->  depth: 100, using reduced set: False
