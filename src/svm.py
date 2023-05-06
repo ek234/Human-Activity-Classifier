@@ -18,7 +18,8 @@ def create_model (c, isred, kern):
         X_val = X_val[:,:10]
         X_test = X_test[:,:10]
 
-    # X_train, y_train = X_train[:100], y_train[:100]
+    if len(y_train > 175000):
+        X_train, y_train = X_train[:175000], y_train[:175000] # reducing size of data as per paper
 
     start_time = time()
 
