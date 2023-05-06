@@ -1,0 +1,7 @@
+==========================================
+SLURM_JOB_ID = 895823
+SLURM_NODELIST = gnode033
+SLURM_JOB_GPUS = 0
+==========================================
+/home2/ek234/micromamba/envs/smaiP/bin/python
+procs: 5101 5103 5104 5105 5106 5107 5108 5109 5110 5111
