@@ -11,7 +11,7 @@ LOGFILE="./log_lr.txt"
 which python
 
 pids=()
-for c in 0.00001 0.0001 0.001 0.01 0.1 1 10; do
+for c in 0.000001 0.00001 0.0001 0.001 0.01 0.1 1 10; do
 	for redness in red big; do
 		python ../src/logistic_regression.py "$c" "$redness" &
 		pid="$!"

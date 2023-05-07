@@ -10,19 +10,22 @@ from time import time
 
 X_train, X_test, y_train, y_test = np.load('../processed_data/linear_interpolation.npz').values()
 
+X_train_reduced = X_train[:,:10]
+X_test_reduced = X_test[:,:10]
+
 start_time = time()
-rf_classifier = RandomForestClassifier()
-rf_classifier.fit(X_train, y_train)
-y_pred = rf_classifier.predict(X_test)
+reduced_rf = RandomForestClassifier()
+reduced_rf.fit(X_train_reduced, y_train)
+y_pred = reduced_rf.predict(X_test_reduced)
 train_time = time() - start_time
 
 acc_t = accuracy_score(y_test, y_pred)
-acc_tr = accuracy_score(y_train, rf_classifier.predict(X_train))
+acc_tr = accuracy_score(y_train, reduced_rf.predict(X_train_reduced))
 
 class_rep = classification_report(y_test, y_pred)
 conf_mat = confusion_matrix(y_test, y_pred)
 
-with open(f"../models/rf_metrics_big.txt", 'w') as file:
+with open(f"../models/rf_metrics_red.txt", 'w') as file:
     file.write(f"train time: {train_time}\n")
     file.write(f"accuracy te: {acc_t*100:.3f}%\n")
     file.write(f"accuracy tr: {acc_tr*100:.3f}%\n")

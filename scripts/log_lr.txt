@@ -1,28 +1,32 @@
-827: started lr at C=0.00001, size=red
-829: started lr at C=0.00001, size=big
-830: started lr at C=0.0001, size=red
-832: started lr at C=0.0001, size=big
-833: started lr at C=0.001, size=red
-834: started lr at C=0.001, size=big
-835: started lr at C=0.01, size=red
-836: started lr at C=0.01, size=big
-838: started lr at C=0.1, size=red
-839: started lr at C=0.1, size=big
-840: started lr at C=1, size=red
-841: started lr at C=1, size=big
-842: started lr at C=10, size=red
-843: started lr at C=10, size=big
-827: ended with status 0
-829: ended with status 0
-830: ended with status 0
-832: ended with status 0
-833: ended with status 0
-834: ended with status 0
-835: ended with status 0
-836: ended with status 0
-838: ended with status 0
-839: ended with status 0
-840: ended with status 0
-841: ended with status 0
-842: ended with status 0
-843: ended with status 0
+3245: started lr at C=0.000001, size=red
+3247: started lr at C=0.000001, size=big
+3248: started lr at C=0.00001, size=red
+3249: started lr at C=0.00001, size=big
+3250: started lr at C=0.0001, size=red
+3251: started lr at C=0.0001, size=big
+3252: started lr at C=0.001, size=red
+3253: started lr at C=0.001, size=big
+3254: started lr at C=0.01, size=red
+3255: started lr at C=0.01, size=big
+3256: started lr at C=0.1, size=red
+3257: started lr at C=0.1, size=big
+3258: started lr at C=1, size=red
+3259: started lr at C=1, size=big
+3260: started lr at C=10, size=red
+3261: started lr at C=10, size=big
+3245: ended with status 0
+3247: ended with status 0
+3248: ended with status 0
+3249: ended with status 0
+3250: ended with status 0
+3251: ended with status 0
+3252: ended with status 0
+3253: ended with status 0
+3254: ended with status 0
+3255: ended with status 0
+3256: ended with status 0
+3257: ended with status 0
+3258: ended with status 0
+3259: ended with status 0
+3260: ended with status 0
+3261: ended with status 0

@@ -1,49 +1,47 @@
 ==========================================
-SLURM_JOB_ID = 895867
-SLURM_NODELIST = gnode084
+SLURM_JOB_ID = 895936
+SLURM_NODELIST = gnode042
 SLURM_JOB_GPUS = 1
 ==========================================
 /home2/vedant.p/tools/miniconda3/envs/smai/bin/python
-procs: 827 829 830 832 833 834 835 836 838 839 840 841 842 843
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/linear_model/_stochastic_gradient.py:163: FutureWarning: The loss 'log' was deprecated in v1.1 and will be removed in version 1.3. Use `loss='log_loss'` which is equivalent.
-  warnings.warn(
-starting LR exec->  C: 0.1, using reduced set: True
-starting LR exec->  C: 0.01, using reduced set: True
-starting LR exec->  C: 0.0001, using reduced set: True
-starting LR exec->  C: 1.0, using reduced set: True
+procs: 3245 3247 3248 3249 3250 3251 3252 3253 3254 3255 3256 3257 3258 3259 3260 3261
 starting LR exec->  C: 0.001, using reduced set: True
-starting LR exec->  C: 0.01, using reduced set: False
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+starting LR exec->  C: 1e-06, using reduced set: True
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
 starting LR exec->  C: 1e-05, using reduced set: True
+starting LR exec->  C: 1.0, using reduced set: True
+starting LR exec->  C: 0.0001, using reduced set: True
+starting LR exec->  C: 0.01, using reduced set: True
+starting LR exec->  C: 10.0, using reduced set: True
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+starting LR exec->  C: 1e-06, using reduced set: False
+starting LR exec->  C: 0.1, using reduced set: True
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/vedant.p/tools/miniconda3/envs/smai/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+starting LR exec->  C: 1e-05, using reduced set: False
 starting LR exec->  C: 0.0001, using reduced set: False
 starting LR exec->  C: 0.1, using reduced set: False
-starting LR exec->  C: 1.0, using reduced set: False
 starting LR exec->  C: 0.001, using reduced set: False
-starting LR exec->  C: 10.0, using reduced set: True
-starting LR exec->  C: 1e-05, using reduced set: False
 starting LR exec->  C: 10.0, using reduced set: False
+starting LR exec->  C: 1.0, using reduced set: False
+starting LR exec->  C: 0.01, using reduced set: False
