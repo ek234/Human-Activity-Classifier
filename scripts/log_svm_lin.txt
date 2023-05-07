@@ -18,3 +18,7 @@
 14579: started svm at C=100, size=big
 14580: started svm at C=1000, size=red
 14581: started svm at C=1000, size=big
+14572: ended with status 1
+14573: ended with status 1
+14574: ended with status 1
+14575: ended with status 1

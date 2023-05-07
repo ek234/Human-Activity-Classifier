@@ -1,0 +1,10 @@
+6242: started svm at C=0.1, size=red
+6243: started svm at C=0.1, size=big
+6245: started svm at C=1, size=red
+6246: started svm at C=1, size=big
+6247: started svm at C=10, size=red
+6248: started svm at C=10, size=big
+6249: started svm at C=100, size=red
+6250: started svm at C=100, size=big
+6251: started svm at C=1000, size=red
+6252: started svm at C=1000, size=big
