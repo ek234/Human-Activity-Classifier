@@ -38,3 +38,83 @@
 38569: started svm at C=100, size=big
 38570: started svm at C=1000, size=red
 38571: started svm at C=1000, size=big
+38771: started svm at C=0.1, size=red
+38772: started svm at C=0.1, size=big
+38773: started svm at C=1, size=red
+38774: started svm at C=1, size=big
+38775: started svm at C=10, size=red
+38776: started svm at C=10, size=big
+38777: started svm at C=100, size=red
+38778: started svm at C=100, size=big
+38779: started svm at C=1000, size=red
+38780: started svm at C=1000, size=big
+38771: ended with status 1
+38772: ended with status 1
+38773: ended with status 1
+38774: ended with status 1
+38775: ended with status 1
+38776: ended with status 1
+38777: ended with status 1
+38778: ended with status 1
+38779: ended with status 1
+38780: ended with status 1
+38797: started svm at C=0.1, size=red
+38798: started svm at C=0.1, size=big
+38799: started svm at C=1, size=red
+38800: started svm at C=1, size=big
+38801: started svm at C=10, size=red
+38802: started svm at C=10, size=big
+38803: started svm at C=100, size=red
+38806: started svm at C=100, size=big
+38807: started svm at C=1000, size=red
+38811: started svm at C=1000, size=big
+38797: ended with status 0
+38798: ended with status 0
+38799: ended with status 0
+38800: ended with status 0
+38801: ended with status 0
+38802: ended with status 0
+38803: ended with status 0
+38806: ended with status 0
+38807: ended with status 0
+38811: ended with status 0
+39254: started svm at C=0.1, size=red
+39255: started svm at C=0.1, size=big
+39256: started svm at C=1, size=red
+39257: started svm at C=1, size=big
+39258: started svm at C=10, size=red
+39259: started svm at C=10, size=big
+39260: started svm at C=100, size=red
+39261: started svm at C=100, size=big
+39262: started svm at C=1000, size=red
+39263: started svm at C=1000, size=big
+39254: ended with status 0
+39255: ended with status 0
+39256: ended with status 0
+39257: ended with status 0
+39258: ended with status 0
+39259: ended with status 0
+39260: ended with status 0
+39261: ended with status 0
+39262: ended with status 0
+39263: ended with status 0
+39739: started svm at C=0.1, size=red
+39740: started svm at C=0.1, size=big
+39741: started svm at C=1, size=red
+39742: started svm at C=1, size=big
+39743: started svm at C=10, size=red
+39744: started svm at C=10, size=big
+39745: started svm at C=100, size=red
+39746: started svm at C=100, size=big
+39747: started svm at C=1000, size=red
+39748: started svm at C=1000, size=big
+39739: ended with status 0
+39740: ended with status 0
+39741: ended with status 0
+39742: ended with status 0
+39743: ended with status 0
+39744: ended with status 0
+39745: ended with status 0
+39746: ended with status 0
+39747: ended with status 0
+39748: ended with status 0

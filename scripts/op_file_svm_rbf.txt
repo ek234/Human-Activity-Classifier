@@ -5,3 +5,198 @@ SLURM_JOB_GPUS = 1
 ==========================================
 procs: 38561 38563 38564 38565 38566 38567 38568 38569 38570 38571
 slurmstepd: error: *** JOB 896141 ON gnode042 CANCELLED AT 2023-05-07T13:11:22 ***
+procs: 38797 38798 38799 38800 38801 38802 38803 38806 38807 38811
+starting svm exec->  C: 100.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: True, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: False, kernel: rbf
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+Time taken to run for C=1.0, redu=True, kern=rbf: 11.758077144622803
+Time taken to run for C=10.0, redu=True, kern=rbf: 12.047356605529785
+Time taken to run for C=1000.0, redu=False, kern=rbf: 13.525575399398804
+Time taken to run for C=100.0, redu=False, kern=rbf: 14.337571144104004
+Accuracy wrt validation set for full data with C=10.0: 0.7423333333333333
+Accuracy wrt validation set for full data with C=1.0: 0.6966666666666667
+Time taken to run for C=10.0, redu=False, kern=rbf: 14.66853952407837
+Time taken to run for C=1.0, redu=False, kern=rbf: 14.897836446762085
+Time taken to run for C=0.1, redu=True, kern=rbf: 15.128121852874756
+Accuracy wrt validation set for full data with C=1000.0: 0.8396666666666667
+Accuracy wrt validation set for full data with C=100.0: 0.8623333333333333
+Accuracy wrt validation set for full data with C=10.0: 0.8643333333333333
+Accuracy wrt validation set for full data with C=1.0: 0.8326666666666667
+Accuracy wrt validation set for full data with C=0.1: 0.6136666666666667
+Time taken to run for C=100.0, redu=True, kern=rbf: 18.868043184280396
+Accuracy wrt test set for reduced data with C=10.0: 0.7441428571428571
+Time taken to run for C=0.1, redu=False, kern=rbf: 21.215334177017212
+Accuracy wrt validation set for full data with C=100.0: 0.755
+Accuracy wrt test set for reduced data with C=1.0: 0.7001428571428572
+Accuracy wrt test set for reduced data with C=1000.0: 0.8365714285714285
+Accuracy wrt test set for reduced data with C=100.0: 0.8548571428571429
+Accuracy wrt test set for reduced data with C=10.0: 0.8582857142857143
+Accuracy wrt validation set for full data with C=0.1: 0.69
+Accuracy wrt test set for reduced data with C=1.0: 0.8254285714285714
+Accuracy wrt test set for reduced data with C=100.0: 0.7557142857142857
+Accuracy wrt test set for reduced data with C=0.1: 0.6125714285714285
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy wrt test set for reduced data with C=0.1: 0.685
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy wrt test set for reduced data with C=10.0: 0.7441428571428571
+Accuracy wrt test set for reduced data with C=1.0: 0.7001428571428572
+Accuracy wrt test set for reduced data with C=1000.0: 0.8365714285714285
+Accuracy wrt test set for reduced data with C=100.0: 0.8548571428571429
+Accuracy wrt test set for reduced data with C=100.0: 0.7557142857142857
+Accuracy wrt test set for reduced data with C=10.0: 0.8582857142857143
+Time taken to run for C=1000.0, redu=True, kern=rbf: 44.353583335876465
+Accuracy wrt test set for reduced data with C=1.0: 0.8254285714285714
+Accuracy wrt validation set for full data with C=1000.0: 0.7463333333333333
+Accuracy wrt test set for reduced data with C=0.1: 0.6125714285714285
+Accuracy wrt test set for reduced data with C=1000.0: 0.747
+Accuracy wrt test set for reduced data with C=0.1: 0.685
+Accuracy wrt test set for reduced data with C=1000.0: 0.747
+procs: 39254 39255 39256 39257 39258 39259 39260 39261 39262 39263
+starting svm exec->  C: 100.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: True, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: True, kernel: rbf
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+Time taken to run for C=10.0, redu=True, kern=rbf: 6.831926584243774
+Time taken to run for C=10.0, redu=False, kern=rbf: 7.3826446533203125
+Time taken to run for C=1000.0, redu=False, kern=rbf: 7.562332630157471
+Time taken to run for C=100.0, redu=False, kern=rbf: 7.489792108535767
+Time taken to run for C=1.0, redu=True, kern=rbf: 7.659815788269043
+Accuracy wrt validation set for full data with C=10.0: 0.8416666666666667
+Time taken to run for C=100.0, redu=True, kern=rbf: 8.783142328262329
+Time taken to run for C=1.0, redu=False, kern=rbf: 8.948725700378418
+Accuracy wrt validation set for full data with C=10.0: 0.9413333333333334
+Accuracy wrt validation set for full data with C=1000.0: 0.938
+Accuracy wrt validation set for full data with C=100.0: 0.942
+Accuracy wrt validation set for full data with C=1.0: 0.813
+Accuracy wrt validation set for full data with C=100.0: 0.8386666666666667
+Accuracy wrt validation set for full data with C=1.0: 0.9236666666666666
+Time taken to run for C=0.1, redu=True, kern=rbf: 11.763164520263672
+Accuracy wrt test set for reduced data with C=10.0: 0.8391428571428572
+Accuracy wrt test set for reduced data with C=10.0: 0.9407142857142857
+Accuracy wrt test set for reduced data with C=100.0: 0.844
+Time taken to run for C=1000.0, redu=True, kern=rbf: 14.550496816635132
+Accuracy wrt test set for reduced data with C=1000.0: 0.9374285714285714
+Accuracy wrt test set for reduced data with C=100.0: 0.9412857142857143
+Time taken to run for C=0.1, redu=False, kern=rbf: 14.826008796691895
+Accuracy wrt test set for reduced data with C=1.0: 0.8124285714285714
+Accuracy wrt validation set for full data with C=0.1: 0.749
+Accuracy wrt validation set for full data with C=1000.0: 0.839
+Accuracy wrt test set for reduced data with C=1.0: 0.9205714285714286
+Accuracy wrt validation set for full data with C=0.1: 0.8466666666666667
+Accuracy wrt test set for reduced data with C=1000.0: 0.8411428571428572
+Accuracy wrt test set for reduced data with C=0.1: 0.7501428571428571
+Accuracy wrt test set for reduced data with C=10.0: 0.8391428571428572
+Accuracy wrt test set for reduced data with C=100.0: 0.844
+Accuracy wrt test set for reduced data with C=10.0: 0.9407142857142857
+Accuracy wrt test set for reduced data with C=0.1: 0.8432857142857143
+Accuracy wrt test set for reduced data with C=1000.0: 0.9374285714285714
+Accuracy wrt test set for reduced data with C=100.0: 0.9412857142857143
+Accuracy wrt test set for reduced data with C=1.0: 0.8124285714285714
+Accuracy wrt test set for reduced data with C=1000.0: 0.8411428571428572
+Accuracy wrt test set for reduced data with C=1.0: 0.9205714285714286
+Accuracy wrt test set for reduced data with C=0.1: 0.7501428571428571
+Accuracy wrt test set for reduced data with C=0.1: 0.8432857142857143
+procs: 39739 39740 39741 39742 39743 39744 39745 39746 39747 39748
+starting svm exec->  C: 1000.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: True, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: False, kernel: rbf
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+using reduced data
+Time taken to run for C=1000.0, redu=False, kern=rbf: 540.4819540977478
+Time taken to run for C=100.0, redu=False, kern=rbf: 545.836009979248
+Accuracy wrt validation set for full data with C=1000.0: 0.9883333333333333
+Accuracy wrt validation set for full data with C=100.0: 0.9876666666666667
+Time taken to run for C=10.0, redu=False, kern=rbf: 562.1345705986023
+Accuracy wrt test set for reduced data with C=1000.0: 0.9841428571428571
+Accuracy wrt validation set for full data with C=10.0: 0.9843333333333333
+Accuracy wrt test set for reduced data with C=100.0: 0.9868571428571429
+Accuracy wrt test set for reduced data with C=10.0: 0.9824285714285714
+Time taken to run for C=1.0, redu=False, kern=rbf: 690.5114059448242
+Accuracy wrt validation set for full data with C=1.0: 0.967
+Accuracy wrt test set for reduced data with C=1.0: 0.966
+Time taken to run for C=10.0, redu=True, kern=rbf: 808.6540322303772
+Accuracy wrt validation set for full data with C=10.0: 0.891
+Accuracy wrt test set for reduced data with C=10.0: 0.8894285714285715
+Time taken to run for C=1.0, redu=True, kern=rbf: 950.7867655754089
+Accuracy wrt validation set for full data with C=1.0: 0.8623333333333333
+Accuracy wrt test set for reduced data with C=1.0: 0.8587142857142858
+Accuracy wrt test set for reduced data with C=1000.0: 0.9841428571428571
+Accuracy wrt test set for reduced data with C=100.0: 0.9868571428571429
+Accuracy wrt test set for reduced data with C=10.0: 0.9824285714285714
+Time taken to run for C=100.0, redu=True, kern=rbf: 1278.8555283546448
+Accuracy wrt validation set for full data with C=100.0: 0.9086666666666666
+Accuracy wrt test set for reduced data with C=100.0: 0.9128571428571428
+Time taken to run for C=0.1, redu=False, kern=rbf: 1413.4781227111816
+Accuracy wrt validation set for full data with C=0.1: 0.9263333333333333
+Time taken to run for C=0.1, redu=True, kern=rbf: 1434.3684961795807
+Accuracy wrt validation set for full data with C=0.1: 0.8196666666666667
+Accuracy wrt test set for reduced data with C=0.1: 0.9287142857142857
+Accuracy wrt test set for reduced data with C=1.0: 0.966
+Accuracy wrt test set for reduced data with C=0.1: 0.8158571428571428
+Accuracy wrt test set for reduced data with C=10.0: 0.8894285714285715
+Accuracy wrt test set for reduced data with C=1.0: 0.8587142857142858
+Accuracy wrt test set for reduced data with C=100.0: 0.9128571428571428
+Accuracy wrt test set for reduced data with C=0.1: 0.9287142857142857
+Accuracy wrt test set for reduced data with C=0.1: 0.8158571428571428
+Time taken to run for C=1000.0, redu=True, kern=rbf: 2619.4630131721497
+Accuracy wrt validation set for full data with C=1000.0: 0.9096666666666666
+Accuracy wrt test set for reduced data with C=1000.0: 0.9188571428571428
+Accuracy wrt test set for reduced data with C=1000.0: 0.9188571428571428

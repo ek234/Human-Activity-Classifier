@@ -13,16 +13,25 @@ def create_model (c, isred, kern):
     X_train, X_test, y_train, y_test = np.load('../processed_data/linear_interpolation.npz').values()
     X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.3, random_state=420)
 
+    # remove indices where label is 0 (as per the paper)
+    train_idxs = np.where(y_train != 0)[0]
+    val_idxs = np.where(y_val != 0)[0]
+    test_idxs = np.where(y_test != 0)[0]
+
+    X_train, y_train = X_train[train_idxs], y_train[train_idxs]
+    X_val, y_val = X_val[val_idxs], y_val[val_idxs]
+    X_test, y_test = X_test[test_idxs], y_test[test_idxs]
+
     if isred:
         X_train = X_train[:,:10]
         X_val = X_val[:,:10]
         X_test = X_test[:,:10]
 
-    if len(y_train) > 175000:
+    if len(y_train) > 17500:
         print("using reduced data", flush=True)
         X_train, y_train = X_train[:175000], y_train[:175000] # reducing size of data as per paper
-        X_val, y_val = X_val[:30000], y_val[:30000]
-        X_test, y_test = X_test[:70000], y_test[:70000]
+        X_val, y_val = X_val[:3000], y_val[:3000]
+        X_test, y_test = X_test[:7000], y_test[:7000]
 
     start_time = time()
 
