@@ -142,3 +142,186 @@
 9947: ended with status 137
 9948: ended with status 0
 9949: ended with status 0
+9950: ended with status 0
+9951: ended with status 0
+9952: ended with status 0
+9953: ended with status 0
+9954: ended with status 137
+9955: ended with status 137
+9956: ended with status 0
+9957: ended with status 1
+9958: ended with status 0
+9959: ended with status 0
+9960: ended with status 0
+9961: ended with status 0
+10038: ended with status 0
+10096: ended with status 137
+10154: ended with status 0
+10307: ended with status 0
+2142: started bdt at Depth=1, num_trees=50, size=red
+2143: started bdt at Depth=1, num_trees=50, size=big
+2144: started bdt at Depth=1, num_trees=100, size=red
+2145: started bdt at Depth=1, num_trees=100, size=big
+2146: started bdt at Depth=1, num_trees=250, size=red
+2147: started bdt at Depth=1, num_trees=250, size=big
+2148: started bdt at Depth=1, num_trees=500, size=red
+2149: started bdt at Depth=1, num_trees=500, size=big
+2150: started bdt at Depth=4, num_trees=50, size=red
+2151: started bdt at Depth=4, num_trees=50, size=big
+2152: started bdt at Depth=4, num_trees=100, size=red
+2153: started bdt at Depth=4, num_trees=100, size=big
+2154: started bdt at Depth=4, num_trees=250, size=red
+2155: started bdt at Depth=4, num_trees=250, size=big
+2156: started bdt at Depth=4, num_trees=500, size=red
+2157: started bdt at Depth=4, num_trees=500, size=big
+2158: started bdt at Depth=7, num_trees=50, size=red
+2159: started bdt at Depth=7, num_trees=50, size=big
+2160: started bdt at Depth=7, num_trees=100, size=red
+2161: started bdt at Depth=7, num_trees=100, size=big
+2162: started bdt at Depth=7, num_trees=250, size=red
+2163: started bdt at Depth=7, num_trees=250, size=big
+2164: started bdt at Depth=7, num_trees=500, size=red
+2165: started bdt at Depth=7, num_trees=500, size=big
+2166: started bdt at Depth=10, num_trees=50, size=red
+2167: started bdt at Depth=10, num_trees=50, size=big
+2169: started bdt at Depth=10, num_trees=100, size=red
+2170: started bdt at Depth=10, num_trees=100, size=big
+2171: started bdt at Depth=10, num_trees=250, size=red
+2172: started bdt at Depth=10, num_trees=250, size=big
+2173: started bdt at Depth=10, num_trees=500, size=red
+2174: started bdt at Depth=10, num_trees=500, size=big
+3486: started bdt at Depth=1, num_trees=50, size=red
+3487: started bdt at Depth=1, num_trees=50, size=big
+3488: started bdt at Depth=1, num_trees=100, size=red
+3489: started bdt at Depth=1, num_trees=100, size=big
+3490: started bdt at Depth=1, num_trees=250, size=red
+3491: started bdt at Depth=1, num_trees=250, size=big
+3492: started bdt at Depth=1, num_trees=500, size=red
+3493: started bdt at Depth=1, num_trees=500, size=big
+3494: started bdt at Depth=4, num_trees=50, size=red
+3495: started bdt at Depth=4, num_trees=50, size=big
+3496: started bdt at Depth=4, num_trees=100, size=red
+3497: started bdt at Depth=4, num_trees=100, size=big
+3498: started bdt at Depth=4, num_trees=250, size=red
+3499: started bdt at Depth=4, num_trees=250, size=big
+3500: started bdt at Depth=4, num_trees=500, size=red
+3501: started bdt at Depth=4, num_trees=500, size=big
+3502: started bdt at Depth=7, num_trees=50, size=red
+3503: started bdt at Depth=7, num_trees=50, size=big
+3504: started bdt at Depth=7, num_trees=100, size=red
+3505: started bdt at Depth=7, num_trees=100, size=big
+3506: started bdt at Depth=7, num_trees=250, size=red
+3507: started bdt at Depth=7, num_trees=250, size=big
+3508: started bdt at Depth=7, num_trees=500, size=red
+3509: started bdt at Depth=7, num_trees=500, size=big
+3510: started bdt at Depth=10, num_trees=50, size=red
+3511: started bdt at Depth=10, num_trees=50, size=big
+3512: started bdt at Depth=10, num_trees=100, size=red
+3513: started bdt at Depth=10, num_trees=100, size=big
+3514: started bdt at Depth=10, num_trees=250, size=red
+3515: started bdt at Depth=10, num_trees=250, size=big
+3516: started bdt at Depth=10, num_trees=500, size=red
+3517: started bdt at Depth=10, num_trees=500, size=big
+23153: started bdt at Depth=1, num_trees=50, size=red
+23154: started bdt at Depth=1, num_trees=50, size=big
+23155: started bdt at Depth=1, num_trees=100, size=red
+23156: started bdt at Depth=1, num_trees=100, size=big
+23157: started bdt at Depth=1, num_trees=250, size=red
+23158: started bdt at Depth=1, num_trees=250, size=big
+23159: started bdt at Depth=1, num_trees=500, size=red
+23160: started bdt at Depth=1, num_trees=500, size=big
+23161: started bdt at Depth=4, num_trees=50, size=red
+23162: started bdt at Depth=4, num_trees=50, size=big
+23163: started bdt at Depth=4, num_trees=100, size=red
+23164: started bdt at Depth=4, num_trees=100, size=big
+23165: started bdt at Depth=4, num_trees=250, size=red
+23166: started bdt at Depth=4, num_trees=250, size=big
+23168: started bdt at Depth=4, num_trees=500, size=red
+23169: started bdt at Depth=4, num_trees=500, size=big
+23170: started bdt at Depth=7, num_trees=50, size=red
+23171: started bdt at Depth=7, num_trees=50, size=big
+23173: started bdt at Depth=7, num_trees=100, size=red
+23174: started bdt at Depth=7, num_trees=100, size=big
+23175: started bdt at Depth=7, num_trees=250, size=red
+23176: started bdt at Depth=7, num_trees=250, size=big
+23177: started bdt at Depth=7, num_trees=500, size=red
+23178: started bdt at Depth=7, num_trees=500, size=big
+23179: started bdt at Depth=10, num_trees=50, size=red
+23180: started bdt at Depth=10, num_trees=50, size=big
+23182: started bdt at Depth=10, num_trees=100, size=red
+23183: started bdt at Depth=10, num_trees=100, size=big
+23184: started bdt at Depth=10, num_trees=250, size=red
+23185: started bdt at Depth=10, num_trees=250, size=big
+23186: started bdt at Depth=10, num_trees=500, size=red
+23187: started bdt at Depth=10, num_trees=500, size=big
+23153: ended with status 1
+23154: ended with status 1
+23155: ended with status 1
+23156: ended with status 1
+23157: ended with status 1
+23158: ended with status 1
+23159: ended with status 1
+23160: ended with status 1
+23161: ended with status 1
+23162: ended with status 1
+23163: ended with status 1
+23164: ended with status 1
+23165: ended with status 1
+23166: ended with status 1
+23168: ended with status 1
+23169: ended with status 1
+23170: ended with status 1
+23171: ended with status 1
+23173: ended with status 1
+23174: ended with status 1
+23175: ended with status 1
+23176: ended with status 1
+23177: ended with status 1
+23178: ended with status 1
+23179: ended with status 1
+23180: ended with status 1
+23182: ended with status 1
+23183: ended with status 1
+23184: ended with status 1
+23185: ended with status 1
+23186: ended with status 1
+23187: ended with status 1
+23203: started bdt at Depth=1, num_trees=50, size=red
+23204: started bdt at Depth=1, num_trees=50, size=big
+23205: started bdt at Depth=1, num_trees=100, size=red
+23206: started bdt at Depth=1, num_trees=100, size=big
+23207: started bdt at Depth=1, num_trees=250, size=red
+23208: started bdt at Depth=1, num_trees=250, size=big
+23209: started bdt at Depth=1, num_trees=500, size=red
+23210: started bdt at Depth=1, num_trees=500, size=big
+23211: started bdt at Depth=4, num_trees=50, size=red
+23212: started bdt at Depth=4, num_trees=50, size=big
+23213: started bdt at Depth=4, num_trees=100, size=red
+23214: started bdt at Depth=4, num_trees=100, size=big
+23215: started bdt at Depth=4, num_trees=250, size=red
+23217: started bdt at Depth=4, num_trees=250, size=big
+23218: started bdt at Depth=4, num_trees=500, size=red
+23219: started bdt at Depth=4, num_trees=500, size=big
+23220: started bdt at Depth=7, num_trees=50, size=red
+23221: started bdt at Depth=7, num_trees=50, size=big
+23222: started bdt at Depth=7, num_trees=100, size=red
+23223: started bdt at Depth=7, num_trees=100, size=big
+23224: started bdt at Depth=7, num_trees=250, size=red
+23225: started bdt at Depth=7, num_trees=250, size=big
+23226: started bdt at Depth=7, num_trees=500, size=red
+23227: started bdt at Depth=7, num_trees=500, size=big
+23228: started bdt at Depth=10, num_trees=50, size=red
+23229: started bdt at Depth=10, num_trees=50, size=big
+23230: started bdt at Depth=10, num_trees=100, size=red
+23231: started bdt at Depth=10, num_trees=100, size=big
+23232: started bdt at Depth=10, num_trees=250, size=red
+23233: started bdt at Depth=10, num_trees=250, size=big
+23234: started bdt at Depth=10, num_trees=500, size=red
+23235: started bdt at Depth=10, num_trees=500, size=big
+23203: ended with status 0
+23204: ended with status 0
+23205: ended with status 0
+23206: ended with status 0
+23207: ended with status 0
+23208: ended with status 0
+23209: ended with status 0

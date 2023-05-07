@@ -1,61 +1,19 @@
-==========================================
-SLURM_JOB_ID = 896140
-SLURM_NODELIST = gnode031
-SLURM_JOB_GPUS = 0
-==========================================
 /home2/ek234/micromamba/envs/smaiP/bin/python
-procs: 9932 9936 9937 9938 9939 9940 9941 9942 9943 9944 9945 9946 9947 9948 9949 9950 9951 9952 9953 9954 9955 9956 9957 9958 9959 9960 9961 10038 10096 10154 10307 10346
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
+procs: 23203 23204 23205 23206 23207 23208 23209 23210 23211 23212 23213 23214 23215 23217 23218 23219 23220 23221 23222 23223 23224 23225 23226 23227 23228 23229 23230 23231 23232 23233 23234 23235
 starting bdt exec->  depth: 1, num of tree: 50, using reduced set: True
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
+starting bdt exec->  depth: 1, num of tree: 50, using reduced set: False
 starting bdt exec->  depth: 1, num of tree: 100, using reduced set: True
 starting bdt exec->  depth: 4, num of tree: 50, using reduced set: True
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-starting bdt exec->  depth: 1, num of tree: 50, using reduced set: False
 starting bdt exec->  depth: 1, num of tree: 100, using reduced set: False
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
 starting bdt exec->  depth: 1, num of tree: 250, using reduced set: True
 starting bdt exec->  depth: 7, num of tree: 50, using reduced set: True
+starting bdt exec->  depth: 4, num of tree: 100, using reduced set: True
 starting bdt exec->  depth: 10, num of tree: 50, using reduced set: True
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home2/ek234/micromamba/envs/smaiP/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
+starting bdt exec->  depth: 4, num of tree: 50, using reduced set: False
 starting bdt exec->  depth: 7, num of tree: 100, using reduced set: True
-starting bdt exec->  depth: 1, num of tree: 500, using reduced set: True
 starting bdt exec->  depth: 1, num of tree: 250, using reduced set: False
+starting bdt exec->  depth: 1, num of tree: 500, using reduced set: True
 starting bdt exec->  depth: 7, num of tree: 50, using reduced set: False
 starting bdt exec->  depth: 10, num of tree: 100, using reduced set: True
+starting bdt exec->  depth: 4, num of tree: 250, using reduced set: True
 starting bdt exec->  depth: 4, num of tree: 100, using reduced set: False
-starting bdt exec->  depth: 10, num of tree: 50, using reduced set: False
-starting bdt exec->  depth: 1, num of tree: 500, using reduced set: False
-starting bdt exec->  depth: 4, num of tree: 500, using reduced set: True
-starting bdt exec->  depth: 10, num of tree: 100, using reduced set: False
-starting bdt exec->  depth: 4, num of tree: 250, using reduced set: False
-starting bdt exec->  depth: 7, num of tree: 500, using reduced set: True
-Traceback (most recent call last):
-  File "/home2/ek234/Human-Activity-Classifier/scripts/../src/boosted_dt.py", line 58, in <module>
-    with open(f"../models/bdt_metrics_{num_trees}_{use_reduced}_{depth}.txt", 'w') as file:
-FileNotFoundError: [Errno 2] No such file or directory: '../models/bdt_metrics_500_True_7.txt'

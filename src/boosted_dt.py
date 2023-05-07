@@ -12,6 +12,15 @@ def create_model (depth, num_trees, isred):
     X_train, X_test, y_train, y_test = np.load('../processed_data/linear_interpolation.npz').values()
     X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2, random_state=420)
 
+    # remove indices where label is 0 (as per the paper)
+    train_idxs = np.where(y_train != 0)[0]
+    val_idxs = np.where(y_val != 0)[0]
+    test_idxs = np.where(y_test != 0)[0]
+
+    X_train, y_train = X_train[train_idxs], y_train[train_idxs]
+    X_val, y_val = X_val[val_idxs], y_val[val_idxs]
+    X_test, y_test = X_test[test_idxs], y_test[test_idxs]
+
     if isred:
         X_train = X_train[:,:10]
         X_val = X_val[:,:10]
