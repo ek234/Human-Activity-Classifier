@@ -1,32 +1,160 @@
-3245: started lr at C=0.000001, size=red
-3247: started lr at C=0.000001, size=big
-3248: started lr at C=0.00001, size=red
-3249: started lr at C=0.00001, size=big
-3250: started lr at C=0.0001, size=red
-3251: started lr at C=0.0001, size=big
-3252: started lr at C=0.001, size=red
-3253: started lr at C=0.001, size=big
-3254: started lr at C=0.01, size=red
-3255: started lr at C=0.01, size=big
-3256: started lr at C=0.1, size=red
-3257: started lr at C=0.1, size=big
-3258: started lr at C=1, size=red
-3259: started lr at C=1, size=big
-3260: started lr at C=10, size=red
-3261: started lr at C=10, size=big
-3245: ended with status 0
-3247: ended with status 0
-3248: ended with status 0
-3249: ended with status 0
-3250: ended with status 0
-3251: ended with status 0
-3252: ended with status 0
-3253: ended with status 0
-3254: ended with status 0
-3255: ended with status 0
-3256: ended with status 0
-3257: ended with status 0
-3258: ended with status 0
-3259: ended with status 0
-3260: ended with status 0
-3261: ended with status 0
+37578: started lr at C=0.000001, size=red
+37579: started lr at C=0.000001, size=big
+37580: started lr at C=0.00001, size=red
+37581: started lr at C=0.00001, size=big
+37582: started lr at C=0.0001, size=red
+37583: started lr at C=0.0001, size=big
+37584: started lr at C=0.001, size=red
+37585: started lr at C=0.001, size=big
+37586: started lr at C=0.01, size=red
+37587: started lr at C=0.01, size=big
+37588: started lr at C=0.1, size=red
+37589: started lr at C=0.1, size=big
+37590: started lr at C=1, size=red
+37591: started lr at C=1, size=big
+37592: started lr at C=10, size=red
+37593: started lr at C=10, size=big
+37578: ended with status 0
+37579: ended with status 0
+37580: ended with status 0
+37581: ended with status 0
+37582: ended with status 0
+37583: ended with status 0
+37584: ended with status 0
+37585: ended with status 0
+37586: ended with status 0
+37587: ended with status 0
+37588: ended with status 0
+37589: ended with status 0
+37590: ended with status 0
+37591: ended with status 0
+37592: ended with status 0
+37593: ended with status 0
+40725: started lr at C=0.000001, size=red
+40726: started lr at C=0.000001, size=big
+40727: started lr at C=0.00001, size=red
+40728: started lr at C=0.00001, size=big
+40729: started lr at C=0.0001, size=red
+40730: started lr at C=0.0001, size=big
+40731: started lr at C=0.001, size=red
+40732: started lr at C=0.001, size=big
+40733: started lr at C=0.01, size=red
+40734: started lr at C=0.01, size=big
+40735: started lr at C=0.1, size=red
+40736: started lr at C=0.1, size=big
+40737: started lr at C=1, size=red
+40738: started lr at C=1, size=big
+40739: started lr at C=10, size=red
+40740: started lr at C=10, size=big
+40725: ended with status 1
+40726: ended with status 1
+40727: ended with status 1
+40728: ended with status 1
+40729: ended with status 1
+40730: ended with status 1
+40731: ended with status 1
+40732: ended with status 1
+40733: ended with status 1
+40734: ended with status 1
+40735: ended with status 1
+40736: ended with status 1
+40737: ended with status 1
+40738: ended with status 1
+40739: ended with status 1
+40740: ended with status 1
+40757: started lr at C=0.000001, size=red
+40758: started lr at C=0.000001, size=big
+40759: started lr at C=0.00001, size=red
+40760: started lr at C=0.00001, size=big
+40761: started lr at C=0.0001, size=red
+40762: started lr at C=0.0001, size=big
+40763: started lr at C=0.001, size=red
+40764: started lr at C=0.001, size=big
+40765: started lr at C=0.01, size=red
+40766: started lr at C=0.01, size=big
+40767: started lr at C=0.1, size=red
+40768: started lr at C=0.1, size=big
+40769: started lr at C=1, size=red
+40770: started lr at C=1, size=big
+40771: started lr at C=10, size=red
+40772: started lr at C=10, size=big
+40757: ended with status 0
+40758: ended with status 0
+40759: ended with status 0
+40760: ended with status 137
+40761: ended with status 0
+40762: ended with status 0
+40763: ended with status 0
+40764: ended with status 137
+40765: ended with status 0
+40766: ended with status 137
+40767: ended with status 0
+40768: ended with status 0
+40769: ended with status 0
+40770: ended with status 0
+40771: ended with status 0
+40772: ended with status 0
+1388: started lr at C=0.000001, size=red
+1389: started lr at C=0.000001, size=big
+1390: started lr at C=0.00001, size=red
+1391: started lr at C=0.00001, size=big
+1392: started lr at C=0.0001, size=red
+1393: started lr at C=0.0001, size=big
+1394: started lr at C=0.001, size=red
+1395: started lr at C=0.001, size=big
+1396: started lr at C=0.01, size=red
+1397: started lr at C=0.01, size=big
+1398: started lr at C=0.1, size=red
+1399: started lr at C=0.1, size=big
+1400: started lr at C=1, size=red
+1401: started lr at C=1, size=big
+1402: started lr at C=10, size=red
+1404: started lr at C=10, size=big
+1388: ended with status 1
+1389: ended with status 1
+1390: ended with status 1
+1391: ended with status 1
+1392: ended with status 1
+1393: ended with status 1
+1394: ended with status 1
+1395: ended with status 1
+1396: ended with status 1
+1397: ended with status 1
+1398: ended with status 1
+1399: ended with status 1
+1400: ended with status 1
+1401: ended with status 1
+1402: ended with status 1
+1404: ended with status 1
+1429: started lr at C=0.000001, size=red
+1430: started lr at C=0.000001, size=big
+1431: started lr at C=0.00001, size=red
+1432: started lr at C=0.00001, size=big
+1433: started lr at C=0.0001, size=red
+1434: started lr at C=0.0001, size=big
+1435: started lr at C=0.001, size=red
+1436: started lr at C=0.001, size=big
+1437: started lr at C=0.01, size=red
+1438: started lr at C=0.01, size=big
+1439: started lr at C=0.1, size=red
+1440: started lr at C=0.1, size=big
+1441: started lr at C=1, size=red
+1442: started lr at C=1, size=big
+1443: started lr at C=10, size=red
+1444: started lr at C=10, size=big
+1429: ended with status 0
+1430: ended with status 0
+1431: ended with status 0
+1432: ended with status 0
+1433: ended with status 0
+1434: ended with status 0
+1435: ended with status 0
+1436: ended with status 0
+1437: ended with status 0
+1438: ended with status 0
+1439: ended with status 0
+1440: ended with status 0
+1441: ended with status 0
+1442: ended with status 0
+1443: ended with status 0
+1444: ended with status 0
