@@ -1,0 +1,127 @@
+40857: started svm at C=0.1, size=red
+40859: started svm at C=0.1, size=big
+40860: started svm at C=1, size=red
+40861: started svm at C=1, size=big
+40862: started svm at C=10, size=red
+40863: started svm at C=10, size=big
+40864: started svm at C=100, size=red
+40865: started svm at C=100, size=big
+40866: started svm at C=1000, size=red
+40867: started svm at C=1000, size=big
+7783: started svm at C=0.1, size=red
+7785: started svm at C=0.1, size=big
+7786: started svm at C=1, size=red
+7787: started svm at C=1, size=big
+7788: started svm at C=10, size=red
+7789: started svm at C=10, size=big
+7790: started svm at C=100, size=red
+7791: started svm at C=100, size=big
+7792: started svm at C=1000, size=red
+7793: started svm at C=1000, size=big
+procs: 7783 7785 7786 7787 7788 7789 7790 7791 7792 7793
+8671: started svm at C=0.1, size=red
+8672: started svm at C=0.1, size=big
+8673: started svm at C=1, size=red
+8674: started svm at C=1, size=big
+8675: started svm at C=10, size=red
+8676: started svm at C=10, size=big
+8677: started svm at C=100, size=red
+8678: started svm at C=100, size=big
+8679: started svm at C=1000, size=red
+8680: started svm at C=1000, size=big
+procs: 8671 8672 8673 8674 8675 8676 8677 8678 8679 8680
+8671: ended with status 1
+8672: ended with status 1
+8673: ended with status 1
+8674: ended with status 1
+8675: ended with status 1
+8676: ended with status 1
+8677: ended with status 1
+8678: ended with status 1
+8679: ended with status 1
+8680: ended with status 1
+13375: started svm at C=0.1, size=red
+13376: started svm at C=0.1, size=big
+13377: started svm at C=1, size=red
+13378: started svm at C=1, size=big
+13379: started svm at C=10, size=red
+13380: started svm at C=10, size=big
+13381: started svm at C=100, size=red
+13382: started svm at C=100, size=big
+13383: started svm at C=1000, size=red
+13384: started svm at C=1000, size=big
+procs: 13375 13376 13377 13378 13379 13380 13381 13382 13383 13384
+29914: started svm at C=0.1, size=red
+29915: started svm at C=0.1, size=big
+29916: started svm at C=1, size=red
+29917: started svm at C=1, size=big
+29918: started svm at C=10, size=red
+29919: started svm at C=10, size=big
+29920: started svm at C=100, size=red
+29921: started svm at C=100, size=big
+29922: started svm at C=1000, size=red
+29923: started svm at C=1000, size=big
+procs: 29914 29915 29916 29917 29918 29919 29920 29921 29922 29923
+30633: started svm at C=0.1, size=red
+30635: started svm at C=0.1, size=big
+30636: started svm at C=1, size=red
+30637: started svm at C=1, size=big
+30638: started svm at C=10, size=red
+30639: started svm at C=10, size=big
+30640: started svm at C=100, size=red
+30641: started svm at C=100, size=big
+30642: started svm at C=1000, size=red
+30643: started svm at C=1000, size=big
+procs: 30633 30635 30636 30637 30638 30639 30640 30641 30642 30643
+30633: ended with status 1
+30635: ended with status 1
+30636: ended with status 1
+30637: ended with status 1
+30638: ended with status 1
+30639: ended with status 1
+30640: ended with status 1
+30641: ended with status 1
+30642: ended with status 1
+30643: ended with status 1
+30906: started svm at C=0.1, size=red
+30907: started svm at C=0.1, size=big
+30908: started svm at C=1, size=red
+30909: started svm at C=1, size=big
+30910: started svm at C=10, size=red
+30911: started svm at C=10, size=big
+30912: started svm at C=100, size=red
+30913: started svm at C=100, size=big
+30914: started svm at C=1000, size=red
+30915: started svm at C=1000, size=big
+procs: 30906 30907 30908 30909 30910 30911 30912 30913 30914 30915
+30906: ended with status 1
+30907: ended with status 1
+30908: ended with status 1
+30909: ended with status 1
+30910: ended with status 1
+30911: ended with status 1
+30912: ended with status 1
+30913: ended with status 1
+30914: ended with status 1
+30915: ended with status 1
+31175: started svm at C=0.1, size=red
+31177: started svm at C=0.1, size=big
+31178: started svm at C=1, size=red
+31179: started svm at C=1, size=big
+31180: started svm at C=10, size=red
+31181: started svm at C=10, size=big
+31182: started svm at C=100, size=red
+31183: started svm at C=100, size=big
+31184: started svm at C=1000, size=red
+31186: started svm at C=1000, size=big
+procs: 31175 31177 31178 31179 31180 31181 31182 31183 31184 31186
+31175: ended with status 0
+31177: ended with status 0
+31178: ended with status 0
+31179: ended with status 0
+31180: ended with status 0
+31181: ended with status 0
+31182: ended with status 0
+31183: ended with status 0
+31184: ended with status 0
+31186: ended with status 0

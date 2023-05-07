@@ -1,12 +1,13 @@
 #!/bin/zsh
 #SBATCH -A research
 #SBATCH -n 10
+#SBATCH --mincpus=9
 #SBATCH --gres=gpu:1
 #SBATCH --mem-per-cpu=3G
 #SBATCH --time=4-00:00:00
-#SBATCH --output=op_file_svm_rbf.txt
+#SBATCH --output=op_file_svm_rbf_beyond.txt
 
-LOGFILE="./log_svm_rbf.txt"
+LOGFILE="./log_svm_rbf_beyond.txt"
 
 pids=()
 for c in 0.1 1 10 100 1000; do
@@ -17,9 +18,9 @@ for c in 0.1 1 10 100 1000; do
 		pids+="$pid"
 	done
 done
-echo "procs: $pids"
+echo "procs: $pids" &>> "$LOGFILE"
 
 for job in $pids; do
 	wait $job
-	echo "$job: ended with status $?" >> "$LOGFILE"
+	echo "$job: ended with status $?" &>> "$LOGFILE"
 done

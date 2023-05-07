@@ -1,6 +1,7 @@
 ==========================================
-SLURM_JOB_ID = 895948
-SLURM_NODELIST = gnode022
+SLURM_JOB_ID = 896141
+SLURM_NODELIST = gnode042
 SLURM_JOB_GPUS = 1
 ==========================================
-procs: 4807 4808 4809 4810 4811 4812 4813 4814 4815 4816
+procs: 38561 38563 38564 38565 38566 38567 38568 38569 38570 38571
+slurmstepd: error: *** JOB 896141 ON gnode042 CANCELLED AT 2023-05-07T13:11:22 ***

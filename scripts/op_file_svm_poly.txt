@@ -1,6 +1,46 @@
 ==========================================
-SLURM_JOB_ID = 895950
-SLURM_NODELIST = gnode031
+SLURM_JOB_ID = 896326
+SLURM_NODELIST = gnode022
 SLURM_JOB_GPUS = 0
 ==========================================
-procs: 6242 6243 6245 6246 6247 6248 6249 6250 6251 6252
+procs: 31086 31087 31088 31089 31090 31091 31092 31093 31094 31095
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax
+  File "../src/svm.py", line 22
+    print("using reduced data", flush=True)
+                                     ^
+  File "SyntaxError../src/svm.py: ", line invalid syntax
+22
+    print("using reduced data", flush=True)
+                                     ^
+SyntaxError: invalid syntax

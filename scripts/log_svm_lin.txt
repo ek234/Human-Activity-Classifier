@@ -22,3 +22,67 @@
 14573: ended with status 1
 14574: ended with status 1
 14575: ended with status 1
+9839: started svm at C=0.1, size=red
+9841: started svm at C=0.1, size=big
+9842: started svm at C=1, size=red
+9843: started svm at C=1, size=big
+9844: started svm at C=10, size=red
+9845: started svm at C=10, size=big
+9846: started svm at C=100, size=red
+9847: started svm at C=100, size=big
+9848: started svm at C=1000, size=red
+9849: started svm at C=1000, size=big
+14172: started svm at C=0.1, size=red
+14173: started svm at C=0.1, size=big
+14174: started svm at C=1, size=red
+14175: started svm at C=1, size=big
+14176: started svm at C=10, size=red
+14177: started svm at C=10, size=big
+14178: started svm at C=100, size=red
+14179: started svm at C=100, size=big
+14180: started svm at C=1000, size=red
+14182: started svm at C=1000, size=big
+14172: ended with status 1
+14173: ended with status 1
+14174: ended with status 1
+14175: ended with status 1
+14176: ended with status 1
+14177: ended with status 1
+14178: ended with status 1
+14179: ended with status 1
+14180: ended with status 1
+14182: ended with status 1
+14372: started svm at C=0.1, size=red
+14373: started svm at C=0.1, size=big
+14374: started svm at C=1, size=red
+14375: started svm at C=1, size=big
+14376: started svm at C=10, size=red
+14377: started svm at C=10, size=big
+14378: started svm at C=100, size=red
+14379: started svm at C=100, size=big
+14380: started svm at C=1000, size=red
+14381: started svm at C=1000, size=big
+14372: ended with status 1
+14373: ended with status 1
+14374: ended with status 1
+14375: ended with status 1
+30999: started svm at C=0.1, size=red
+31001: started svm at C=0.1, size=big
+31002: started svm at C=1, size=red
+31003: started svm at C=1, size=big
+31004: started svm at C=10, size=red
+31005: started svm at C=10, size=big
+31006: started svm at C=100, size=red
+31007: started svm at C=100, size=big
+31008: started svm at C=1000, size=red
+31009: started svm at C=1000, size=big
+30999: ended with status 1
+31001: ended with status 1
+31002: ended with status 1
+31003: ended with status 1
+31004: ended with status 1
+31005: ended with status 1
+31006: ended with status 1
+31007: ended with status 1
+31008: ended with status 1
+31009: ended with status 1

@@ -28,3 +28,13 @@
 4814: ended with status 1
 4815: ended with status 1
 4816: ended with status 1
+38561: started svm at C=0.1, size=red
+38563: started svm at C=0.1, size=big
+38564: started svm at C=1, size=red
+38565: started svm at C=1, size=big
+38566: started svm at C=10, size=red
+38567: started svm at C=10, size=big
+38568: started svm at C=100, size=red
+38569: started svm at C=100, size=big
+38570: started svm at C=1000, size=red
+38571: started svm at C=1000, size=big

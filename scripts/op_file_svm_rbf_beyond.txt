@@ -1,0 +1,75 @@
+==========================================
+SLURM_JOB_ID = 896327
+SLURM_NODELIST = gnode022
+SLURM_JOB_GPUS = 0
+==========================================
+starting svm exec->  C: 1000.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 1000.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: False, kernel: rbf
+starting svm exec->  C: 100.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 10.0, using reduced set: False, kernel: rbf
+starting svm exec->  C: 1.0, using reduced set: True, kernel: rbf
+starting svm exec->  C: 0.1, using reduced set: True, kernel: rbf
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+loaded pretrained models
+using reduced data
+using trained model
+using reduced data
+using trained model
+using reduced data
+using trained model
+using reduced data
+using trained model
+using reduced data
+using reduced data
+using trained model
+using trained model
+using reduced data
+using trained model
+using reduced data
+using trained model
+using reduced data
+using trained model
+using reduced data
+using trained model
+Accuracy wrt validation set C=1000.0: 0.9407333333333333
+Accuracy wrt validation set C=100.0: 0.9453
+Accuracy wrt validation set C=1000.0: 0.8351333333333333
+Accuracy wrt validation set C=10.0: 0.9347333333333333
+Accuracy wrt validation set C=100.0: 0.8240333333333333
+Accuracy wrt validation set C=10.0: 0.8000333333333334
+Accuracy wrt validation set C=1.0: 0.9010666666666667
+Accuracy wrt validation set C=1.0: 0.7633333333333333
+Accuracy wrt validation set C=0.1: 0.6989666666666666
+Accuracy wrt validation set C=0.1: 0.8329666666666666
+Accuracy wrt test set C=1000.0: 0.9417714285714286
+Accuracy wrt test set C=100.0: 0.9456571428571429
+Accuracy wrt test set C=1000.0: 0.8375714285714285
+Accuracy wrt test set C=10.0: 0.9339857142857143
+Accuracy wrt test set C=100.0: 0.8272857142857143
+Accuracy wrt test set C=10.0: 0.8039857142857143
+Accuracy wrt test set C=1.0: 0.8984428571428571
+Accuracy wrt test set C=1.0: 0.7671142857142857
+Accuracy wrt test set C=0.1: 0.7021142857142857
+Accuracy wrt test set C=0.1: 0.8315857142857143
+Accuracy wrt test set C=1000.0: 0.9951542857142858
+Accuracy wrt test set C=100.0: 0.98684
+Accuracy wrt test set C=1000.0: 0.9171371428571429
+Accuracy wrt test set C=10.0: 0.9650628571428571
+Accuracy wrt test set C=100.0: 0.8738685714285714
+Accuracy wrt test set C=10.0: 0.8263542857142857
+Accuracy wrt test set C=1.0: 0.9166628571428571
+Accuracy wrt test set C=1.0: 0.7745428571428571
+Accuracy wrt test set C=0.1: 0.7017142857142857
+Accuracy wrt test set C=0.1: 0.8358971428571429
